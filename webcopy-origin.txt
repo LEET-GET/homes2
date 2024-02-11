@@ -1,0 +1,388 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\ajax\libs\smoothscroll\1.4.10\SmoothScroll.min.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/95026125
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\watch\95026125
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://petter.su/pano2vr_player.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\pano2vr_player.js
+Content Type: application/javascript
+
+Uri: https://petter.su/skin.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\skin.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/highlight.min.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\highlight.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-img-select-1.0.min.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\tilda-img-select-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zero-gallery-1.0.min.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\tilda-zero-gallery-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\fonts\tildasans\TildaSans-VF.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-img-select-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-img-select-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-t862-popupstepform-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-t862-popupstepform-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-gallery-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-zero-gallery-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-tooltip-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-zero-tooltip-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-video-1.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-zero-video-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3330-6138-4164-a237-643362313362/__-29.ico
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3330-6138-4164-a237-643362313362\__-29.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3336-3562-4464-a463-623531393335/favicon.svg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3336-3562-4464-a463-623531393335\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3536-3738-4634-b163-383631396461/__-29.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3536-3738-4634-b163-383631396461\__-29.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3637-3936-4862-b730-643364316530/2896e291-235e-416a-9.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3637-3936-4862-b730-643364316530\2896e291-235e-416a-9.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6536-6139-4065-b437-336138393737/__-29.ico
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild6536-6139-4065-b437-336138393737\__-29.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild6565-6665-4066-b432-663765363864/__-29.ico
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild6565-6665-4066-b432-663765363864\__-29.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://thb.tildacdn.com/tild3033-3263-4665-a131-343737313932/-/empty/DJI_0365.jpg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3033-3263-4665-a131-343737313932\-\empty\DJI_0365.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3063-3737-4531-b230-363664323565/-/empty/5_30003.jpg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3063-3737-4531-b230-363664323565\-\empty\5_30003.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3063-3936-4834-b261-363266643462/-/resizeb/20x/5.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3063-3936-4834-b261-363266643462\-\resizeb\20x\5.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3232-3131-4033-b133-373763633964/-/empty/0f9632af_7909_47e3_b.jpeg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3232-3131-4033-b133-373763633964\-\empty\0f9632af_7909_47e3_b.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3232-3833-4032-a336-343334346335/-/resizeb/20x/__2023-07-28__202838.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3232-3833-4032-a336-343334346335\-\resizeb\20x\__2023-07-28__202838.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3262-6538-4134-b033-306363323130/-/resizeb/20x/__2023-07-28__202907.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3262-6538-4134-b033-306363323130\-\resizeb\20x\__2023-07-28__202907.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3264-6437-4234-b638-326632633330/-/resizeb/20x/__2023-08-28__112105.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3264-6437-4234-b638-326632633330\-\resizeb\20x\__2023-08-28__112105.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3334-3266-4034-a331-323566353430/-/resizeb/20x/__2023-08-28__112332.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3334-3266-4034-a331-323566353430\-\resizeb\20x\__2023-08-28__112332.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3463-6632-4636-a133-303335316261/-/empty/2_30003_kopiya.jpg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3463-6632-4636-a133-303335316261\-\empty\2_30003_kopiya.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3632-3531-4039-b931-616235636665/-/empty/IMG_4345.jpg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3632-3531-4039-b931-616235636665\-\empty\IMG_4345.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3639-6462-4332-a431-393665396163/-/empty/3.jpg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3639-6462-4332-a431-393665396163\-\empty\3.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3730-3763-4463-b033-353063306435/-/empty/DALLE_2023-10-30_044.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3730-3763-4463-b033-353063306435\-\empty\DALLE_2023-10-30_044.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3935-3163-4938-b437-333462613237/-/empty/12.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild3935-3163-4938-b437-333462613237\-\empty\12.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6133-3332-4465-b064-623763363239/-/empty/5.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild6133-3332-4465-b064-623763363239\-\empty\5.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6166-3965-4363-b265-636434653037/-/empty/2-13.jpg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild6166-3965-4363-b265-636434653037\-\empty\2-13.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6236-3864-4632-a562-303532316536/-/empty/WhatsApp_Image_2021_.jpeg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild6236-3864-4632-a562-303532316536\-\empty\WhatsApp_Image_2021_.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6334-6634-4664-a164-363933663330/-/empty/1-2.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild6334-6634-4664-a164-363933663330\-\empty\1-2.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6633-3461-4232-a662-626432376566/-/resizeb/20x/__2023-07-28__202937.png
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild6633-3461-4232-a662-626432376566\-\resizeb\20x\__2023-07-28__202937.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6635-3030-4561-b937-346230333665/-/empty/DJI_0719-2.jpg
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tild6635-3030-4561-b937-346230333665\-\empty\DJI_0719-2.jpg
+Content Type: image/png
+
+Uri: https://tvoj-dom.ru/
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\index.htm
+Content Type: text/html
+
+Uri: https://tvoj-dom.ru/tilda-blocks-page40647510.min.css?t=1706611719
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tilda-blocks-page40647510.min.css
+Content Type: text/css
+
+Uri: https://tvoj-dom.ru/tilda-blocks-page40647510.min.js?t=1706611719
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\tilda-blocks-page40647510.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/gsap@3.12.5/dist/gsap.min.js
+File Name: C:\Downloaded Web Sites\tvoj-dom.ru\gsap@3.12.5\dist\gsap.min.js
+Content Type: application/javascript
+
